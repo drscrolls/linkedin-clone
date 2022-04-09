@@ -87,13 +87,12 @@
     color: gray;
     font-weight: bolder;
     cursor: pointer;
-    margin-bottom: 5px;
     padding: 5px;
 }
 
 .sidebar__recentItem:hover{
     background-color: whitesmoke;
-    border-radius: 10px;
+    border-radius: 5px;
     cursor: pointer;
     color: black;
 }
